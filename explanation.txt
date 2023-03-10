@@ -1,0 +1,6 @@
+My thought process while creating and finishing the chart was basically adding on to the previous tasks. 
+While creating this chart, I was creating variables and adding variable types to them.  Also, while adding 
+elements to the graph like the upper and lower bounds to be more specific in what we’re trying to find. 
+From this new chart, a trader will understand when it is a good trading opportunity. With the inclusion 
+of upper and lower bounds, ratio, and trigger_alert, the task of finding these opportunities will be much 
+easier.
